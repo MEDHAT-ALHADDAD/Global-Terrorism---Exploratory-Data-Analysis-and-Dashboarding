@@ -1,0 +1,140 @@
+Target Type,Target Subtype,Target Type Id
+Private Citizens & Property,Named Civilian,1
+Government (Diplomatic),"Diplomatic Personnel (outside of embassy, consulate)",2
+Journalists & Media,Radio Journalist/Staff/Facility,3
+Government (Diplomatic),Embassy/Consulate,4
+Police,"Police Building (headquarters, station, school)",5
+Police,Police Security Forces/Officers,6
+Utilities,Electricity,7
+Military,Military Recruiting Station/Academy,8
+Government (General),Government Building/Facility/Office,9
+Military,Military Barracks/Base/Headquarters/Checkpost,10
+Airports & Aircraft,Aircraft (not at an airport),11
+Business,Retail/Grocery/Bakery,12
+Government (General),Unknown,13
+Military,"Military Personnel (soldiers, troops, officers, forces)",14
+Educational Institution,School/University/Educational Building,15
+Business,Multinational Corporation,16
+Violent Political Party,Party Office/Facility,17
+Private Citizens & Property,House/Apartment/Residence,18
+Private Citizens & Property,Race/Ethnicity Identified,19
+Government (General),Judge/Attorney/Court,20
+Police,Police Patrol (including vehicles and convoys),21
+Religious Figures/Institutions,Place of Worship,22
+Unknown,Unknown,23
+Private Citizens & Property,Vehicles/Transportation,24
+Transportation,Bus (excluding tourists),25
+Government (General),Politician or Political Party Movement/Meeting/Rally,26
+Business,Hotel/Resort,27
+Airports & Aircraft,Airport,28
+Business,Bank/Commerce,29
+Business,Construction,30
+Tourists,Tour Bus/Van,31
+Transportation,Train/Train Tracks/Trolley,32
+Private Citizens & Property,Religion Identified,33
+Business,Unknown,34
+Business,Gas/Oil/Electric,35
+Journalists & Media,Newspaper Journalist/Staff/Facility,36
+Military,Military Maritime,37
+Utilities,Unknown,38
+Government (General),Head of State,39
+Business,Entertainment/Cultural/Stadium/Casino,40
+Private Citizens & Property,Labor Union Related,41
+Business,Restaurant/Bar/Café,42
+Private Citizens & Property,Museum/Cultural Center/Cultural House,43
+Government (General),"Government Personnel (excluding police, military)",44
+Private Citizens & Property,"Public Area (garden, parking lot, garage, beach, public building, camp)",45
+Business,Industrial/Textiles/Factory,46
+NGO,International NGO,47
+Private Citizens & Property,Unnamed Civilian/Unspecified,48
+Private Citizens & Property,Political Party Member/Rally,49
+Telecommunication,Telephone/Telegraph,50
+Airports & Aircraft,Airline Officer/Personnel,51
+Food or Water Supply,Water Supply,52
+Private Citizens & Property,Laborer (General)/Occupation Identified,53
+Military,Military Transportation/Vehicle (excluding convoys),54
+Religious Figures/Institutions,Unknown,55
+NGO,Domestic NGO,56
+Telecommunication,Radio,57
+Business,Farm/Ranch,58
+Terrorists/Non-State Militia,Terrorist,59
+Military,Military Unit/Patrol/Convoy,60
+Other,Fire Fighter/Truck,61
+Educational Institution,Other Personnel,62
+Private Citizens & Property,"Procession/Gathering (funeral, wedding, birthday, religious)",63
+Business,Mining,64
+Utilities,Oil,65
+Business,Medical/Pharmaceutical,66
+Private Citizens & Property,Village/City/Town/Suburb,67
+Private Citizens & Property,Memorial/Cemetery/Monument,68
+Government (Diplomatic),"International Organization (peacekeeper, aid agency, compound)",69
+Religious Figures/Institutions,Affiliated Institution,70
+Tourists,Tourism Travel Agency,71
+Military,Unknown,72
+Telecommunication,Television,73
+Government (Diplomatic),Unknown,74
+Journalists & Media,Other (including online news agencies),75
+Journalists & Media,Television Journalist/Staff/Facility,76
+Violent Political Party,Party Official/Candidate/Other Personnel,77
+Transportation,Highway/Road/Toll/Traffic Signal,78
+Maritime,Oil Tanker,79
+Tourists,Other Facility,80
+Tourists,Tourist,81
+Government (General),Royalty,82
+Maritime,Unknown,83
+Maritime,Civilian Maritime,84
+Utilities,Gas,85
+Military,NATO,86
+Military,Military Aircraft,87
+Transportation,Taxi/Rickshaw,88
+Airports & Aircraft,Unknown,89
+Educational Institution,Teacher/Professor/Instructor,90
+Other,Unknown,91
+Religious Figures/Institutions,Religious Figure,92
+Maritime,Commercial Maritime,93
+Terrorists/Non-State Militia,Non-State Militia,94
+NGO,Unknown,95
+Private Citizens & Property,Marketplace/Plaza/Square,96
+Police,Prison/Jail,97
+Transportation,Subway,98
+Transportation,Bus Station/Stop,99
+Transportation,Bridge/Car Tunnel,100
+Government (General),Intelligence,101
+Private Citizens & Property,Alleged Informant,102
+Transportation,Unknown,103
+Private Citizens & Property,Student,104
+Business,Legal Services,105
+Police,Unknown,106
+Abortion Related,Clinics,107
+Government (General),Election-related,108
+Telecommunication,Multiple Telecommunication Targets,109
+Private Citizens & Property,Farmer,110
+Telecommunication,Unknown,111
+Food or Water Supply,Food Supply,112
+Business,Private Security Company/Firm,113
+Journalists & Media,Unknown,114
+Terrorists/Non-State Militia,Unknown,115
+Private Citizens & Property,Unknown,116
+Maritime,Port,117
+Police,Police Checkpoint,118
+Private Citizens & Property,Protester,119
+Private Citizens & Property,Refugee (including Camps/IDP/Asylum Seekers),120
+Military,Paramilitary,121
+Educational Institution,Unknown,122
+Military,Military Checkpoint,123
+Violent Political Party,Rally,124
+Abortion Related,Personnel,125
+Telecommunication,Internet Infrastructure,126
+Other,Ambulance,127
+Military,Military Weaponry,128
+Violent Political Party,Unknown,129
+Police,Alleged Informant,130
+Terrorists/Non-State Militia,Alleged Informant,131
+Government (General),Named Civilian,132
+Government (General),Private Security Company/Firm,133
+Other,Demilitarized Zone (including Green Zone),134
+Military,Non-combatant Personnel,135
+Military,Alleged Informant,136
+Government (General),Medical/Pharmaceutical,137
+Business,Oil Tanker,138
+Tourists,Named Civilian,139

@@ -1,0 +1,46 @@
+Weapon Type,Weapon Subtype,Weapon Id
+Unknown,Unknown,1
+Explosives,Unknown Explosive Type,2
+Incendiary,Unknown,3
+Firearms,Unknown Gun Type,4
+Firearms,Automatic or Semi-Automatic Rifle,5
+Incendiary,Molotov Cocktail/Petrol Bomb,6
+Incendiary,Gasoline or Alcohol,7
+Firearms,Rifle/Shotgun (non-automatic),8
+Incendiary,Arson/Fire,9
+Explosives,Pipe Bomb,10
+Explosives,Vehicle,11
+Explosives,Dynamite/TNT,12
+Explosives,Pressure Trigger,13
+Explosives,Time Fuse,14
+Explosives,Other Explosive Type,15
+Chemical,Poisoning,16
+Explosives,"Projectile (rockets, mortars, RPGs, etc.)",17
+Firearms,Handgun,18
+Explosives,Letter Bomb,19
+Melee,Blunt Object,20
+Sabotage Equipment,Unknown,21
+Chemical,Unknown,22
+Explosives,Sticky Bomb,23
+Explosives,Grenade,24
+"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",Unknown,25
+Melee,Knife or Other Sharp Object,26
+Explosives,Landmine,27
+Fake Weapons,Unknown,28
+Melee,"Hands, Feet, Fists",29
+Explosives,Remote Trigger,30
+Melee,Rope or Other Strangling Device,31
+Radiological,Unknown,32
+Other,Unknown,33
+Chemical,Explosive,34
+Melee,Unknown Weapon Type,35
+Melee,Suffocation,36
+Biological,Unknown,37
+Explosives,Suicide (carried bodily by human being),38
+Explosives,Unknown,39
+Firearms,Other Gun Type,40
+Firearms,Unknown,41
+Other,Blunt Object,42
+Radiological,Vehicle,43
+Explosives,Unknown Gun Type,44
+Melee,Unknown,45

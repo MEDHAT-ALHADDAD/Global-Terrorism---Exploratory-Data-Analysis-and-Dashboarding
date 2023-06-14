@@ -1,0 +1,10 @@
+Attack Type,Attack Type Id
+Assassination,1
+Hostage Taking (Kidnapping),2
+Bombing/Explosion,3
+Facility/Infrastructure Attack,4
+Armed Assault,5
+Hijacking,6
+Unknown,7
+Unarmed Assault,8
+Hostage Taking (Barricade Incident),9
