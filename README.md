@@ -4,7 +4,7 @@ We will create a Power BI Dashboard using the dataset [Global Terrorism](https:/
 ![Overview Page of Dashboard](screenshots/1.png)
 ___
 ## This project will be split into 2 parts:
-- data _$ preprocessing $_ using [Python Notebook](./GT%20data%20pre-processing%20and%20modeling.ipynb): where we will split our one large 181691 records and 128 wide columns into star schema for better analysis and performance.
+- data _preprocessing_ using [Python Notebook](./GT%20data%20pre-processing%20and%20modeling.ipynb): where we will split our one large 181691 records and 128 wide columns into star schema for better analysis and performance.
   
 - [Power BI Dashboard](./Global%20Terrorism%20Dashboard.pbix):  
   
@@ -22,7 +22,7 @@ ___
      - Most Active Group per Country.
      - total suicide attacks, kidnapping events, and Property loss.
      - provided a heatmap for attacks per states and cities
-![Countries Insight Page](screenshots/--.png)
+![Countries Insight Page](screenshots/11.png)
 | __Iraq__ is one of the most dangerous countries across world with a total  ~__23,000__ attack  with around __3,926__ attack taking place on the year `2014`.
   - also we  produced **groups insights** such as 
     - Active Years
